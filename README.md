@@ -31,13 +31,10 @@ Often many machine learning methods are treated as a blackbox, though in many ca
 
       a. Example with Iris
       
-2. Support Vector Machines Intro
+2. K Means
+
+      a. Example    
+      
+3. Support Vector Machines Intro
 
       a. Implementation for SVM
-      
-3. K Means
-
-      a. Example (In Progress)
-      
-      
-
