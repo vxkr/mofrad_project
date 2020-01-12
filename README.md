@@ -9,7 +9,7 @@ Often many machine learning methods are treated as a blackbox, though in many ca
 ### I. Correlation
 1. Principal Correlation Analysis
 
-      a. Example with Iris
+      a. Examples
       
 2. Canonical Correlation Analysis
       
@@ -24,17 +24,15 @@ Often many machine learning methods are treated as a blackbox, though in many ca
 
 4. Total Least Squares
 
-5. Non-linear Least Squares
-
 ### III. Classification
 1. K Nearest Neighbors
 
-      a. Example with Iris
+      a. Examples
       
 2. K Means
 
-      a. Example    
+      a. Examples  
       
-3. Support Vector Machines Intro
+3. Support Vector Machines Intro with examples
 
       a. Implementation for SVM
