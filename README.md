@@ -16,7 +16,7 @@ Often many machine learning methods are treated as a blackbox, though in many ca
 4. Total Least Squares
 
 ### II. Correlation
-1. Principal Correlation Analysis
+1. Principal Component Analysis
 
       a. Examples
       
